@@ -12,7 +12,7 @@ Queues are commonly used to model real world domains. The main objective of a qu
 - Number of queues; - Simulation interval
  - Other information you may consider necessary
 
-## Minimal output: 
+## Output: 
 ####
 - The average of waiting time, service time and empty queue time for 1, 2 and 3 queues for the simulation interval and for a specified interval (other useful information may be also considered)
 - Log of events and main system data
