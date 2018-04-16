@@ -9,8 +9,7 @@ Queues are commonly used to model real world domains. The main objective of a qu
 ####
 - Minimum and maximum interval of arriving time between customers
 - Minimum and maximum service time 
-- Number of queues; - Simulation interval
- - Other information you may consider necessary
+- Number of queues - Simulation interval
 
 ## Output: 
 ####
